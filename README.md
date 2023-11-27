@@ -1,6 +1,6 @@
 # GroundMeshes
 
-This addon adds a submenu to the Add -> Add Mesh menu in Blender, where the user can add cubes, cylinders and cones to the scene, such that their origin is at the bottom of the mesh. Developed on Blender version 3.6.5. 
+This addon adds a submenu to the Add -> Add Mesh menu in Blender, where the user can add cubes, cylinders and cones to the scene, such that their origin is at the bottom of the mesh. Developed on Blender version 3.6.5. The latest version can be downloaded from https://github.com/LStefanCoder/GroundMeshes.
 
 ## Use
 
